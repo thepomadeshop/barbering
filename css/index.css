@@ -1,0 +1,47 @@
+#t1
+{
+    font-size: 100px;
+    text-align: right;
+}
+
+#t2
+{
+    font-size: 30px;
+    text-align: center;
+}
+
+#t3
+{
+    font-size: 100px;
+    text-align: left;
+    color: white;
+    font-weight: bolder;
+}
+
+#t4
+{
+    font-size: 1000px;
+    text-align: justify;
+    color: white;
+    font-weight: bolder
+}
+
+#primary
+{
+     color: red;
+}
+
+#t5
+{
+    color: white;
+}
+
+#t6
+{
+    color: white;
+}
+
+.jumbotron
+{
+    background-image: url(img/blackandred.jpg);
+}
